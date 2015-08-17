@@ -116,6 +116,8 @@ If your company uses Mono and would like to get it listed here, please contact [
 
 -   [Devart](http://www.devart.com/dotconnect/) Devart provides database connectivity solutions for such databases as Oracle, MySQL, PostgreSQL, and others that are compatible with Mono.
 
+-   [BCZ.com](http://bcz.com/) uses Mono for data processing application on its user profiles and search results indexation for integration with it's propriety developed backend search engine.
+
 -   [VistaDB](http://www.vistadb.com) ships their VistaDB embeddable database on Mono.
 
 -   [Mainsoft](http://www.mainsoft.com) uses Mono for their Grasshopper product which allows ASP.NET applications to be deployed on J2EE servers.
